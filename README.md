@@ -7,7 +7,7 @@ hosting is ever lost, (3) a content backup.
 **Format decision:** plain Markdown, not `.tsx`/React — this repo isn't a frontend framework
 project, so introducing a build toolchain here would add complexity with no rendering benefit. What
 mattered was organization: directories mirror each site's actual URL structure, every page carries
-`url`/`title`/`crawl_date` frontmatter so it's self-describing on its own, and [`INDEX.md`](https://github.com/psychedelicsinrecovery/wordpress-crawls/INDEX.md) +
+`url`/`title`/`crawl_date` frontmatter so it's self-describing on its own, and [`INDEX.md`](https://github.com/psychedelicsinrecovery/wordpress-crawls/blob/main/INDEX.md) +
 `index.json` tie it all together — human-readable and machine-readable respectively.
 
 ## Structure
