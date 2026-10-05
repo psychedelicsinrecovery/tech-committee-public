@@ -18,3 +18,6 @@
 - 📋 **Board proposal:** [`claude-for-pir.md`](https://github.com/psychedelicsinrecovery/techcom-desk/blob/main/proposals/claude-for-pir.md)
 - 🌐 [Tech Committee page](https://service.psychedelicsinrecovery.org/tech-committee/)
 - 📇 **Who's who:** [`CONTACTS.md`](https://github.com/psychedelicsinrecovery/.github/blob/main/CONTACTS.md)
+
+## 🌐 Public lane
+A filtered public copy syncs to [`tech-committee-public`](https://github.com/psychedelicsinrecovery/tech-committee-public) via `.github/workflows/sync-public.yml` (allowlist model from my-template). Public: README.md, docs, wordpress-crawls. Everything else stays private.
