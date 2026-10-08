@@ -10,7 +10,7 @@ to hand it on. Written so a future volunteer, or their AI assistant, can pick it
 |---|---|---|
 | 🧱 **Infrastructure:** structure and safety | Discord's own **Onboarding**, **AutoMod** and **Server Guide**, plus **C.A.R.L.** (Carl-bot) for reaction roles | Repetitive Discord chores with no AI: roles, welcomes, spam filters |
 | 🌌 **Intelligence:** members' questions | **A.L.E.X.** (our own app on the Alexandrina engine) | Cited answers and helpdesk tickets, with deterministic safety rules before any AI |
-| 🍄 **Operations:** upkeep | **S.P.O.R.E.** (proposed ops app) driven by GitHub Actions, written by Christopher's agents (Alfred, Cosmos, Littlebird) | Channel descriptions, announcements, inventories. No AI runs inside Discord for this; nothing reads members' messages. |
+| ☄️ **Operations:** upkeep | **C.A.T.A.L.Y.S.T.** (ops app) driven by GitHub Actions, written by Christopher's agents (Alfred, Cosmos, Littlebird) | Channel descriptions, announcements, inventories. No AI runs inside Discord for this; nothing reads members' messages. |
 
 ## 🤖 Apps & bots
 
@@ -21,7 +21,7 @@ to hand it on. Written so a future volunteer, or their AI assistant, can pick it
 - **Runs on:** Vercel (commands, buttons, web desk) and a Google Cloud e2-micro (conversation worker).
 - **Code:** `alex-desk` (private) → `alex-desk-public`. Engine: `drasticstatic/alexandrina`.
 
-### 🍄 S.P.O.R.E. (proposed: PIR®'s ops app)
+### ☄️ C.A.T.A.L.Y.S.T. (PIR®'s ops app; created as "C.A.T.A.L.Y.S.T.", to be renamed)
 - **Why a separate app:** A.L.E.X. is public-facing and locked down. Upkeep needs different powers (Manage Channels; access to private channels for descriptions and pins), and keeping those in a separate app means no member can ever reach them through A.L.E.X.
 - **Design:** no slash commands, **no Message Content intent**, no AI inside Discord. GitHub Actions post and edit through it; every post is signed by the agent that wrote it.
 - **Later, maybe:** an `/alfred` command for TechCom only, if a conversational ops helper ever earns its keep.
@@ -67,7 +67,7 @@ Onboarding can't safely auto-assign private-group roles (anyone could pick them)
 2. A private review thread opens, visible only to that group's chair or trusted servant and the admins. No GitHub issue, no record outside Discord.
 3. The reviewer taps **Welcome** (the bot adds the role and posts a greeting in the group) or **Not right now** (a kind private reply).
 
-## 🎛️ Reaction roles: what members can self-assign (proposal)
+## 😶 Reaction roles: what members can self-assign (proposal)
 | Self-assign ✅ | Never self-assign 🚫 |
 |---|---|
 | 🔔 Announcement pings, 🗓️ meeting reminders, 📻 Integration Radio drops | 🔏 BIPOC / LGBTQ+ / Men's / Women's (request desk) |
