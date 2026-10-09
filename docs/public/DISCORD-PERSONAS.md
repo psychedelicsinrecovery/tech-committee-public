@@ -57,10 +57,10 @@ In the testnet Web3 desk (a TechCom proposal), the Merkle tree of service badges
 | Part of the tree | Mycelial name | Stands for | What it is |
 |---|---|---|---|
 | 🟤 Leaf | **S.P.O.R.E.** | *Secret Proof Of Recovery Engagement* | The hash of one member's one-time claim code. Reveals nothing about who. |
-| 🧵 Branches | **H.Y.P.H.A.E.** | *Hashes Yoking Proofs Hierarchically And Evenly* | The hashes that join spores pair by pair, up through the network |
+| 🌿 Branches | **R.H.I.Z.O.** | *Rooted Hashes Interweaving Zero-knowledge Offshoots* | The hashes that join spores pair by pair, like the rhizomorphs (root-like cords) a mycelium grows to link distant parts. Named apart from the thread-watcher H.Y.P.H.A. on purpose. |
 | 🍄‍🟫 Root | **M.Y.C.O.** | *Many Yoked, Collectively One* | The single on-chain root that holds the whole network: our First Tradition, unity, in one number |
 
-Proving you belong means tracing your own thread from your spore, through the hyphae, to the root, without ever
+Proving you belong means tracing your own path from your spore, along the rhizomorphs, to the root, without ever
 showing anyone else's.
 
 ## 🎨 Image prompt for C.A.T.A.L.Y.S.T. (for ChatGPT)
