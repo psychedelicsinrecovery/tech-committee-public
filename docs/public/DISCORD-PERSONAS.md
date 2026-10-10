@@ -14,6 +14,9 @@ never as encouragement to use anything. *Proposed by Alfred for Christopher and 
 
 ## ☄️ The agent fleet: **C.A.T.A.L.Y.S.T.**
 
+> 🎨 **Meet them on the chalkboard:** https://psychedelicsinrecovery.github.io/catalyst-desk-public/ (the fleet's
+> showcase, with the hand-built emblem, the art and how the helpers work together).
+
 **C.A.T.A.L.Y.S.T. — *Collaborative Agents Tending And Lifting Your Service Together.*** Named for PIR®'s own
 category of *Medicines, Sacraments & Catalysts*. A catalyst helps a change happen without being consumed by it:
 it doesn't do the healing, it helps the conditions for healing. That's how we want behind-the-scenes help to feel.
