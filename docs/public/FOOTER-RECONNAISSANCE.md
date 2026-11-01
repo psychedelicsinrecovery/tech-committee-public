@@ -8,10 +8,9 @@ source: "emcp-tools + Astra MCP live audit"
 # PIR Footer Architecture: Astra vs Elementor
 
 > **Note on this file:** two versions of this document existed — a fuller architecture doc left
-> uncommitted in `pir-wp-live/`, and a shorter, more current issue-tracker committed to
-> `AGENT-SYNC-pir/created-by-Littlebird/`. Alfred merged them here on 2026-09-21; this is the
-> single canonical copy. See `AGENT-SYNC-pir/created-by-Littlebird/FOOTER-RECONNAISSANCE.md` for a
-> pointer back to this file rather than a second copy.
+> uncommitted in `pir-wp-live/`, and a shorter, more current issue-tracker kept in the lab's private
+> notes. Alfred merged them here on 2026-09-21; this is the single canonical copy, and the notes
+> point back to it rather than keeping a second copy.
 
 ## Executive Summary
 
@@ -355,9 +354,8 @@ start searching..." placeholder, icon-only submit button — now visible togethe
 all 6 pages.
 
 **Unrelated but adjacent — a hero-button alignment regression from the paywall's own selector fix
-this same day.** Not a search-widget issue; see the Littlebird paywall audit handoff for detail
-(`littlebird-ambassador/AGENT-SYNC/created-by-alfred/2026-09-23-handoff-littlebird-pir-convention-paywall-audit.md`,
-"round 3" update) — noted here only because it was caught and fixed in the same testing pass.
+this same day.** Not a search-widget issue; the paywall audit's "round 3" update (in the lab's
+private notes) has the detail — noted here only because it was caught and fixed in the same testing pass.
 
 **Not done, same as every round: cache purge.** No MCP tool exposes it. Christopher purges both
 W3TC and WPX/XDN manually after each round to actually see the result.
